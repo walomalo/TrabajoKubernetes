@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: products-tfinal-config
+  namespace: products-tfinal
+data:
+  SPRING_DATASOURCE_URL: "jdbc:h2:mem:testdb"
+  SPRING_DATASOURCE_USERNAME: "sa"
+  SPRING_DATASOURCE_PASSWORD: ""

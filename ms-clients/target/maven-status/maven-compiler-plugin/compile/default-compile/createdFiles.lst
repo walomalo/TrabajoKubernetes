@@ -1,0 +1,11 @@
+com\netec\app\repository\ProductRepository.class
+com\netec\app\service\ProductServiceImpl.class
+com\netec\app\service\IProductService.class
+com\netec\app\MsClientsApplication.class
+com\netec\app\entities\Client.class
+com\netec\app\service\IClientService.class
+com\netec\app\service\ClientServiceImpl.class
+com\netec\app\controller\ClientController.class
+com\netec\app\controller\ProductController.class
+com\netec\app\repository\ClientRepository.class
+com\netec\app\entities\Product.class
