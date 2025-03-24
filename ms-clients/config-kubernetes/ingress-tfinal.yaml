@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx  # Especifica la clase de Ingress
   rules:
-  - host: "app.productos.com"
+  - host: "products.com"
     http:
       paths:
       - path: /
